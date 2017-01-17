@@ -3,28 +3,17 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<img src="../anvita_profile.jpg" alt="Anvita_Gupta" style="height: 200px;"/>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+**Hey there! I'm Anvita Gupta.**
 
-There are currently two themes built on Poole:
+I'm an undergraduate majoring in Computer Science at Stanford University, specifically the biocomputation track. My passion is **Health + Tech**--applying AI to develop novel ways to treat deadly diseases. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Some of the projects I've worked on include [developing smart data-driven approaches to drug discovery](https://www.linkedin.com/pulse/six-degrees-drug-discovery-white-house-science-fair-me-anvita-gupta), designing high-performance computing clusters and the databases that layer on top of them, and recently, adapting generative adversarial networks for personalized medicine. Find out more details on my [projects]("../projects/index.html") page.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I'm also the founder of [LITAS (Learning IT, Applications, and Software) for Girls](http://www.litas4girls.org/), an international nonprofit working with middle and high school girls to close the gender gap in CS + STEM.
 
-## Setup
+For more on me and my work, check out my [TED talk](https://www.youtube.com/watch?v=cjYweEgFtyw).
 
-Some fun facts about the setup of this project include:
+[Contact me](mailto:avgupta@stanford.edu) to request my CV, or just to chat about interesting projects!
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
